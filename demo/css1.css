@@ -1,0 +1,17 @@
+html{
+    font-size: 32px;
+
+    color: rgb(0,0,0,0.5);
+}
+p{
+    font-size: 64px !important;
+}
+h1,h2{
+    border: 2px dashed red;
+    width: 50%
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+article h2{
+    color: chartreuse
+}
